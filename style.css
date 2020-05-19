@@ -1,0 +1,9 @@
+.box1{
+    height: 100px;
+    width: 100px;
+    background: red;
+}
+body{
+    display: flex;
+    justify-content: flex-end;
+}
